@@ -4,5 +4,9 @@
 #
 #voor het uitvoeren van deze code
 #moeten de nodige libraries geinstalleerd worden:
+
+
+
+
 #pip install astar
 #pip install SearchProblem
