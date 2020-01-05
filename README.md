@@ -8,5 +8,5 @@
 
 
 
-#pip install astar
-#pip install SearchProblem
+pip install astar
+pip install SearchProblem
